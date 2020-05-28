@@ -16,3 +16,5 @@ var_dis: the distribution of the random noise
 model_type: the type of corvariates structure setting (model_type=1: means power decay of the corvariates coefficient, model_type=2: means corvariates are divided into 2 blocks, each block size is p/2 and between each block, there is no correlation between corvariate)
 
 3. To running each R code file, first decide the simulation setting and then run the code.
+
+An R package can be use at https://cran.r-project.org/web/packages/mcb/.
