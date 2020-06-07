@@ -17,4 +17,4 @@ model_type: the type of corvariates structure setting (model_type=1: means power
 
 3. To running each R code file, first decide the simulation setting and then run the code.
 
-An R package can be use at https://cran.r-project.org/web/packages/mcb/.
+An R package can be downloaded at https://cran.r-project.org/web/packages/mcb/.
